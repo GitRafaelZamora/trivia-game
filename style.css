@@ -1,0 +1,35 @@
+.container {
+	margin: 50px;
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	width: 70%; 
+  	margin: 0 auto; 
+  	text-align: center;
+}
+
+#trivia-question {
+	font-size: 50px;
+	padding: 50px;
+}
+
+#answer-options {
+	font-size: 30px;
+	padding: 20px;
+}
+
+li {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: lower-alpha;
+}
+
+#answer {
+	padding: 20px;
+	font-size: 30px;
+
+}
+
+.label {
+	text-align: left;
+}
